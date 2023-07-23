@@ -1,4 +1,4 @@
-const TournamentBoard = require('./../Tournament');
+const TournamentBoard = require('../src/Tournament');
 
 
 test('Test case #1: Creat new Game at board', () => {
