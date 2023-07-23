@@ -1,0 +1,28 @@
+{
+  "name": "test-task",
+  "version": "1.0.0",
+  "description": "Test task",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.6.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vadym-231/testTask.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vadym-231/testTask/issues"
+  },
+  "homepage": "https://github.com/Vadym-231/testTask#readme"
+}
